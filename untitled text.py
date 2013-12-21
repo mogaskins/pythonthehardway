@@ -1,0 +1,1 @@
+hi my name is monique. i have lots of hair. Rediculously curly. All of it. 
