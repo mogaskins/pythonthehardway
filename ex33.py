@@ -16,6 +16,6 @@ numbers2 = fun_name(13)
 
 print "The numbers: "
 
-for brad_penis in numbers2:
-    print brad_penis
+for bp in numbers2:
+    print bp 
         
